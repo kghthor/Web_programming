@@ -29,7 +29,7 @@ There are 47 developed projects that you can Run Live! Access the below links to
   **[Animated-Search-Bar](https://kghthor.github.io/Web_programming/Animated-Search-Bar)**<br>
   **[Animated-Sleeping-Cat](https://kghthor.github.io/Web_programming/Animated-Sleeping-Cat)**<br>
   **[Battery-Level-Indicator-2023](https://kghthor.github.io/Web_programming/Battery-Level-Indicator-2023)**<br>
-  **[Bubbly-Btton-on-Click-Animation](https://kghthor.github.io/Web_programming/Bubbly Button on Click Animation)**<br>
+  **[Bubbly Button on Click Animation](https://kghthor.github.io/Web_programming/BubblyButtononClickAnimation)**<br>
   **[CSS-Animated-Sign-in-Form](https://kghthor.github.io/Web_programming/CSS-Animated-Sign-in-Form)**<br>
   **[Christmas-Lights](https://kghthor.github.io/Web_programming/Christmas-Lights)**<br>
   **[Colorful-Neon-Login-Form](https://kghthor.github.io/Web_programming/Colorful-Neon-Login-Form)**<br>
@@ -46,7 +46,7 @@ There are 47 developed projects that you can Run Live! Access the below links to
   **[Glassmorphic-Calendar-Card](https://kghthor.github.io/Web_programming/Glassmorphic-Calendar-Card)**<br>
   **[Glassmorphic-Login-Form](https://kghthor.github.io/Web_programming/Glassmorphic-Login-Form)**<br>
   **[Gradient-Background-waves](https://kghthor.github.io/Web_programming/Gradient-Background-waves)**<br>
-  **[HeartBumping](https://kghthor.github.io/Web_programming/Heart Bumping)**<br>
+  **[HeartBumping](https://kghthor.github.io/Web_programming/HeartBumping)**<br>
   **[Icon-Background-Animation-Hover-Effect](https://kghthor.github.io/Web_programming/Icon-Background-Animation-Hover-Effect)**<br>
   **[Light-and-Dark-Mode-Calculator](https://kghthor.github.io/Web_programming/Light-and-Dark-Mode-Calculator)**<br>
   **[Liquid-Loader-Animation](https://kghthor.github.io/Web_programming/Liquid-Loader-Animation)**<br>
@@ -58,7 +58,7 @@ There are 47 developed projects that you can Run Live! Access the below links to
   **[New-Year-Countdown](https://kghthor.github.io/Web_programming/New-Year-Countdown)**<br>
   **[Password-Strength-Checker](https://kghthor.github.io/Web_programming/Password-Strength-Checker)**<br>
   **[QR-Code-Scanner-Animation-Effect](https://kghthor.github.io/Web_programming/QR-Code-Scanner-Animation-Effect)**<br>
-  **[Registration-Form](https://kghthor.github.io/Web_programming/Registration Form)**<br>
+  **[Registration-Form](https://kghthor.github.io/Web_programming/RegistrationForm)**<br>
   **[Simple-Toggle-Switch](https://kghthor.github.io/Web_programming/Simple-Toggle-Switch)**<br>
   **[Skills-Rating-Bar](https://kghthor.github.io/Web_programming/Skills-Rating-Bar)**<br>
   **[Tic-Tac-Toe](https://kghthor.github.io/Web_programming/Tic-Tac-Toe)**<br>
