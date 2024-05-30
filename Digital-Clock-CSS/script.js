@@ -10,7 +10,7 @@
     if(formatValue === "12" ){
       formatSwitchBtn.setAttribute("data-format", 24);
     }
-
+ 
     else{
       formatSwitchBtn.setAttribute("data-format", 12);
 
