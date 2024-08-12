@@ -1,7 +1,7 @@
 // Original image:
 // https://dribbble.com/shots/5619509-Animated-Tab-Bar
 
-"use strict";
+"use strict"; 
 
 const body = document.body;
 const bgColorsBody = ["#B497D6", "#ff96bd", "#9999fb", "#ffe797", "#cffff1"];
