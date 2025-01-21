@@ -4,7 +4,7 @@ Welcome to the Practical Front-End Projects repository! This collection offers a
    
 ## Key Features
 
-- **No Bundlers**: The projects in this repository have been developed without the use of bundlers like Webpack or Gulp. This allows you to focus on the core front-end concepts and techniques, without getting tangled in the complexities of build tools.
+- **No Bundlers**: The projects in this repository have been developed without the use of bundlers like Webpack or Gulp. This allows you to focus on the core front-end concepts and techniques, without getting tangled in the complexities of build tools. 
 
 - **No Third-Party Libraries**: The projects showcased here do not rely on any third-party libraries. By using pure Javascript, CSS, and HTML, you'll gain a deeper understanding of the fundamentals of front-end development.
 
