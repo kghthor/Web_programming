@@ -12,7 +12,7 @@ body{
 	justify-content: center;
 	align-items: center;
 	flex-direction: column;
-	background: rgb(0, 9, 44);
+	background: rgb(0, 9, 44); 
 	overflow: hidden;
     
 }
