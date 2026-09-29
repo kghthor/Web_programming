@@ -1,6 +1,6 @@
 const root = document.documentElement;
 const dropdownTitleIcon = document.querySelector(".dropdown-title-icon");
-const dropdownTitle = document.querySelector(".dropdown-title");
+const dropdownTitle = document.querySelector(".dropdown-title"); 
 const dropdownList = document.querySelector(".dropdown-list");
 const mainButton = document.querySelector(".main-button");    
 const floatingIcon = document.querySelector(".floating-icon");
